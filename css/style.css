@@ -1,6 +1,11 @@
-body{background-color: lightcyan}
-.container{
-	background-color: lightcyan;
+body{background-color: #efeee7
+	font:georgia;
+	color:#333333;
+	margin:0;
+	padding:0;
+}
+.container
+	background-color: #efeee7;
 	text-align: center;
 margin-left: 250px;
 margin-right: 250px;
