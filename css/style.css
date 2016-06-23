@@ -1,6 +1,8 @@
 body{background-color: lightgray}
 .container{
 	background-color: lightgray;
-	margin-top: auto;
+	text-align: center;
+margin-left: 250px;
+margin-right: 250px;
 }
 #main-bio{}
